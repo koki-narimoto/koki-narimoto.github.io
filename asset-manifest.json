@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.357d61f8.chunk.css",
-    "main.js": "/static/js/main.bcab1da4.chunk.js",
-    "main.js.map": "/static/js/main.bcab1da4.chunk.js.map",
+    "main.js": "/static/js/main.102e34af.chunk.js",
+    "main.js.map": "/static/js/main.102e34af.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b020c485.js",
     "runtime-main.js.map": "/static/js/runtime-main.b020c485.js.map",
     "static/css/2.b57b7cfd.chunk.css": "/static/css/2.b57b7cfd.chunk.css",
@@ -26,8 +26,9 @@
     "static/media/google.eae9aa93.svg": "/static/media/google.eae9aa93.svg",
     "static/media/japan_1.63b47ab3.png": "/static/media/japan_1.63b47ab3.png",
     "static/media/japan_2.d573ebcc.png": "/static/media/japan_2.d573ebcc.png",
-    "static/media/koki_1.cbe03361.JPG": "/static/media/koki_1.cbe03361.JPG",
-    "static/media/koki_4.064a3e38.JPG": "/static/media/koki_4.064a3e38.JPG",
+    "static/media/k_1.963ba5f0.JPEG": "/static/media/k_1.963ba5f0.JPEG",
+    "static/media/k_2.e4fd21b1.JPEG": "/static/media/k_2.e4fd21b1.JPEG",
+    "static/media/k_4.c67a7761.JPEG": "/static/media/k_4.c67a7761.JPEG",
     "static/media/nucleo.css": "/static/media/nucleo-icons.d6a66724.ttf",
     "static/media/pacman.ad7ae342.png": "/static/media/pacman.ad7ae342.png",
     "static/media/sb_1.62975772.png": "/static/media/sb_1.62975772.png",
@@ -43,6 +44,6 @@
     "static/css/2.b57b7cfd.chunk.css",
     "static/js/2.1ebab17d.chunk.js",
     "static/css/main.357d61f8.chunk.css",
-    "static/js/main.bcab1da4.chunk.js"
+    "static/js/main.102e34af.chunk.js"
   ]
 }
